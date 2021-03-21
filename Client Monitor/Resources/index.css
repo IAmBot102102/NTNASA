@@ -1,0 +1,11 @@
+#root{
+    border: 1px black solid;
+    width: 500px;
+    height: 500px;
+}
+.container{
+    border: 1px black solid;
+    width: 10px;
+    height: 10px;
+    padding: 5px;
+}
