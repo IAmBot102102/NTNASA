@@ -1,11 +1,47 @@
+body{
+    margin: 0px;
+}
 #root{
-    border: 1px black solid;
-    width: 500px;
-    height: 500px;
+    border: 4px black solid;
+    display: flex;
 }
 .container{
-    border: 1px black solid;
+    border: 4px black solid;
+    margin-left: -4px;
+    margin-top: -4px;
+}
+#con1{
+    width: 150px;
+    height: 200px;
+}
+#con2{
+    width: 150px;
+    height: 10px;
+}
+#con3{
     width: 10px;
     height: 10px;
-    padding: 5px;
 }
+#con4{
+    width: 10px;
+    height: 10px;
+}
+#con5{
+    width: 10px;
+    height: 10px;
+}
+#con6{
+    width: 10px;
+    height: 10px;
+}
+#con7{
+    width: 10px;
+    height: 10px;
+}
+#con8{
+    width: 10px;
+    height: 10px;
+}
+
+
+
