@@ -2,46 +2,7 @@ body{
     margin: 0px;
 }
 #root{
-    border: 4px black solid;
-    display: flex;
+    border: 2px solid black;
 }
-.container{
-    border: 4px black solid;
-    margin-left: -4px;
-    margin-top: -4px;
-}
-#con1{
-    width: 150px;
-    height: 200px;
-}
-#con2{
-    width: 150px;
-    height: 10px;
-}
-#con3{
-    width: 10px;
-    height: 10px;
-}
-#con4{
-    width: 10px;
-    height: 10px;
-}
-#con5{
-    width: 10px;
-    height: 10px;
-}
-#con6{
-    width: 10px;
-    height: 10px;
-}
-#con7{
-    width: 10px;
-    height: 10px;
-}
-#con8{
-    width: 10px;
-    height: 10px;
-}
-
 
 
